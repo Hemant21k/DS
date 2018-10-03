@@ -1,0 +1,3 @@
+https://10kloc.wordpress.com/2013/12/24/cancelling-tasks-in-executors/
+https://javarevisited.blogspot.com/2015/01/how-to-use-future-and-futuretask-in-Java.html
+https://javajee.com/future-and-futuretask-in-java-concurrency-with-example
