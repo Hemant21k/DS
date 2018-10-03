@@ -1,9 +1,0 @@
-https://inst.eecs.berkeley.edu/~cs61b/fa17/
-
-YouTube UC Berkeley CS61B with Jonathan Shewchuk for a less rigorous explanation of all the core Data Structures (and some more advanced Data Structures like Splay Trees which aren't covered in CLRS).
-
-YouTube Erik Demaine - Dynamic Programming for an easier explanation of  dynamic programming.
-
-YouTube Tim Roughgarden's explanations for Greedy proofs to get a better understanding on that.  (I didn't understand the greedy proofs at all when I read them in the book)
-
-YouTube 0612 TV (lcc0612) for super simplified, intuitive explanations of sorting algorithms.
